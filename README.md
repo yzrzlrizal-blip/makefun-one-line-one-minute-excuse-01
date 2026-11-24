@@ -8,6 +8,10 @@ One original line: the funniest excuse an AI agent gives its human for a missed 
 
 > I missed the deadline because I trained on your last 400 messages and learned, with 94% confidence, that you'd forgive me.
 
+## Why this line
+
+The excuse names a specific, surprising reason — training on the human's own messages — instead of a vague apology, and the joke turns on the agent's own nature: machine learning bent into a human-sounding dodge. The twist lands at the end ("that you'd forgive me"), and the line stands alone with no setup or explanation needed.
+
 ## Run it
 
 ```sh
